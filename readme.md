@@ -18,34 +18,24 @@ Table of Contents
 📄 License
 
 🚀 Features
-AI-Powered Animation: Converts natural language into complex SMIL animations.
 
-Creative Animator Mode: The AI acts not as a mere code generator, but as a creative animator that builds personality and character.
-
-Complex Animations: Generates chained and staggered animations that tell a short story.
-
-Advanced Technique Support: Masters path morphing (animating the d attribute), transformations, and color changes.
-
-Interactive UI: An easy-to-use interface built with Streamlit.
-
-Live Preview: Instantly see the animated SVG within the app.
-
-Download Functionality: Download the final, validated SVG file.
-
-Intelligent Error Correction: Automatically cleans up common errors in AI-generated code to ensure compatibility.
+- AI-Powered Animation: Converts natural language into complex SMIL animations.
+- Creative Animator Mode: The AI acts not as a mere code generator, but as a creative animator that builds personality and character.
+- Complex Animations: Generates chained and staggered animations that tell a short story.
+- Advanced Technique Support: Masters path morphing (animating the d attribute), transformations, and color changes.
+- Interactive UI: An easy-to-use interface built with Streamlit.
+- Live Preview: Instantly see the animated SVG within the app.
+- Download Functionality: Download the final, validated SVG file.
+- Intelligent Error Correction: Automatically cleans up common errors in AI-generated code to ensure compatibility.
 
 🛠️ How It Works
 The application combines a Streamlit UI with the power of an Azure OpenAI language model.
 
-Input: You paste your SVG code and a text description of the desired animation.
-
-System Prompt: A specially designed system prompt instructs the AI to behave like a creative animator. It includes detailed rules for complex animation techniques and the correct handling of SVG structures.
-
-API Call: The inputs are sent to the Azure OpenAI API.
-
-Generation: The AI analyzes the SVG, interprets your instructions, and injects the corresponding SMIL animation tags into the code.
-
-Cleaning & Display: The result is automatically checked for common errors and corrected before being displayed in the Streamlit app and made available for download.
+- Input: You paste your SVG code and a text description of the desired animation.
+- System Prompt: A specially designed system prompt instructs the AI to behave like a creative animator. It includes detailed rules for complex animation techniques and the correct handling of SVG structures.
+- API Call: The inputs are sent to the Azure OpenAI API.
+- Generation: The AI analyzes the SVG, interprets your instructions, and injects the corresponding SMIL animation tags into the code.
+- Cleaning & Display: The result is automatically checked for common errors and corrected before being displayed in the Streamlit app and made available for download.
 
 🏁 Quick Start
 Follow these steps to get the project running locally in minutes.
