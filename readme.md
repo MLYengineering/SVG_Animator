@@ -3,11 +3,6 @@ Breathe life into your static SVG graphics with the power of AI. This tool uses 
 
 Forget complex animation software. Simply describe the desired personality ("Make the robot look curious!") and watch as the AI creates a unique, "Clippy"-style animation.
 
-✨ Live Demo
-
-[Link to your live Streamlit Community Cloud app here]
-
-!(https://www.google.com/search?q=https://placehold.co/800x450/2d3748/ffffff%3Ftext%3DInsert%2BApp%2BDemo%2BGIF%2BHere)
 
 Table of Contents
 🚀 Features
