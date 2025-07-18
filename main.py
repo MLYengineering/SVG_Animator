@@ -5,7 +5,9 @@ import streamlit as st
 import os
 from openai import AzureOpenAI
 import re
+import dotenv
 
+dotenv.load_dotenv()  # Lädt Umgebungsvariablen aus der .env-Datei
 # --- Configuration ---
 # Enter your Azure OpenAI credentials here.
 # It is recommended to use environment variables for better security.
